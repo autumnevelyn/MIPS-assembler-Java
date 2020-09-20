@@ -1,0 +1,8 @@
+# Intellij progject files
+/.idea/
+/out/
+/*.iml
+/bin/
+samples_old
+instructions.out
+listing.out
